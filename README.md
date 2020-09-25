@@ -16,8 +16,8 @@ https://kelseyeckelberry.github.io/02_responsive_portfolio/
 
 ## Screenshots
 
-![](![aboutMeScreenshot](./aboutme.png).png)
+![about me](./Assets/Images/aboutme.png)
 
-![](2020-09-24-23-25-25.png)
+![portfolio](./Assets/Images/portfolio.png)
 
-![](2020-09-24-23-25-54.png)
+![contact](./Assets/Images/contact.png)
